@@ -9,7 +9,7 @@ import android.view.View.OnClickListener;
 import android.widget.Toast;
 
 public class ButtonClickListener implements OnClickListener{
-    private Context c;
+    //private Context c;
     public ButtonClickListener (Context c){
         this.c = c;
     }
